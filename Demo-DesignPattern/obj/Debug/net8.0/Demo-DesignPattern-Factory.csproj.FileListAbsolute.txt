@@ -1,0 +1,14 @@
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\bin\Debug\net8.0\Demo-DesignPattern-Factory.exe
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\bin\Debug\net8.0\Demo-DesignPattern-Factory.deps.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\bin\Debug\net8.0\Demo-DesignPattern-Factory.runtimeconfig.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\bin\Debug\net8.0\Demo-DesignPattern-Factory.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\bin\Debug\net8.0\Demo-DesignPattern-Factory.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\obj\Debug\net8.0\Demo-DesignPattern-Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\obj\Debug\net8.0\Demo-DesignPattern-Factory.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\obj\Debug\net8.0\Demo-DesignPattern-Factory.AssemblyInfo.cs
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\obj\Debug\net8.0\Demo-DesignPattern-Factory.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\obj\Debug\net8.0\Demo-DesignPattern-Factory.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\obj\Debug\net8.0\refint\Demo-DesignPattern-Factory.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\obj\Debug\net8.0\Demo-DesignPattern-Factory.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\obj\Debug\net8.0\Demo-DesignPattern-Factory.genruntimeconfig.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-DesignPattern\Demo-DesignPattern\obj\Debug\net8.0\ref\Demo-DesignPattern-Factory.dll

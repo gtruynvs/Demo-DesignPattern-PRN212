@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo-DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B28CF2-51F1-41ED-B503-7A5C7ADC1343}|Demo-DesignPattern\\Demo-DesignPattern.csproj|d:\\university\\sem5\\prn212\\code\\demo-designpattern\\demo-designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B28CF2-51F1-41ED-B503-7A5C7ADC1343}|Demo-DesignPattern\\Demo-DesignPattern.csproj|solutionrelative:demo-designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B28CF2-51F1-41ED-B503-7A5C7ADC1343}|Demo-DesignPattern\\Demo-DesignPattern.csproj|d:\\university\\sem5\\prn212\\code\\demo-designpattern\\demo-designpattern\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B28CF2-51F1-41ED-B503-7A5C7ADC1343}|Demo-DesignPattern\\Demo-DesignPattern.csproj|solutionrelative:demo-designpattern\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalFactory.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo-DesignPattern\\Demo-DesignPattern\\AnimalFactory.cs",
+              "RelativeDocumentMoniker": "Demo-DesignPattern\\AnimalFactory.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo-DesignPattern\\Demo-DesignPattern\\AnimalFactory.cs",
+              "RelativeToolTip": "Demo-DesignPattern\\AnimalFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:38:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo-DesignPattern\\Demo-DesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Demo-DesignPattern\\Program.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo-DesignPattern\\Demo-DesignPattern\\Program.cs",
+              "RelativeToolTip": "Demo-DesignPattern\\Program.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAswLUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:00:50.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
